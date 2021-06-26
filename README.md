@@ -8,19 +8,16 @@
   <img alt="Gitub top language" src="https://img.shields.io/github/languages/top/marssaljr/letmeask.svg"> 
  
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/marssaljr/letmeask.svg"> 
-  <a href="https://github.com/marssaljr/letmeask/commits/main"> 
+  <a href="https://github.com/rafapaivadeandrade/letmeask/commits/main"> 
     <img alt="last commit" src="https://img.shields.io/github/last-commit/marssaljr/letmeask.svg"> 
   </a> 
  
-  <a href="https://github.com/marssaljr/letmeask/issues"> 
+  <a href="https://github.com/rafapaivadeandrade/letmeask/issues"> 
     <img alt="Repository issues" src="https://img.shields.io/github/issues/marssaljr/letmeask.svg"> 
   </a> 
  
   <img alt="GitHub" src="https://img.shields.io/github/license/marssaljr/letmeask.svg"> 
  
-  <a href="https://app.netlify.com/sites/deixemeperguntar/deploys"> 
-    <img alt="deploy status" src="https://api.netlify.com/api/v1/badges/192b6bcb-7cab-44c4-b4b5-a078a5c131fc/deploy-status"> 
-  </a> 
 </p> 
  
 <h4 align="center">
@@ -32,12 +29,6 @@
   <a href="#memo-license">License</a>
 </p>
 
-![App Screenshot](https://raw.githubusercontent.com/marssaljr/letmeask/main/.github/app.svg) 
-<p align="center"> 
-  <a href="https://deixemeperguntar.netlify.app" target="_blank"> 
-    <img alt="Demo on Netlify" src="https://raw.githubusercontent.com/marssaljr/letmeask/main/.github/netlify.png"> 
-  </a>
-</p> 
 <p align="center"> 
   <a href="https://letmeask-1869a.web.app" target="_blank"> 
     Demo on Firebase
